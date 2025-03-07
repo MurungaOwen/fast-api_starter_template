@@ -3,3 +3,4 @@ uvicorn
 sqlalchemy
 databases
 psycopg2
+python-decouple
